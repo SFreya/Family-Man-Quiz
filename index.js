@@ -71,6 +71,66 @@ var questions=[{
       c: iPhone
     d: Nothing. He tells about the gun to his mother instead.  \n`,
           answer: "c"
+  },
+  {
+    question: `
+      Where do Suchi and Arvind head to, for a conference?
+  
+      a: Lonavala 
+      b: Alibaug 
+      c: Goa
+    d: Gokarna  \n`,
+          answer: "a"
+  },
+  {
+    question: `
+      How does Moosa die?
+  
+      a: In a gas explosion 
+      b: He is killed by Sajid. 
+      c: In the hospital, due to his injuries
+    d: He is shot by Srikant.  \n`,
+          answer: "b"
+  },
+  {
+    question: `
+      What is the name of the mission that Srikant and his team are trying to thwart?
+  
+      a: Mission Kashmir 
+      b: Mission Peace 
+      c: Mission Impossible
+    d: Mission Zulfiqar  \n`,
+          answer: "d"
+  },
+  {
+    question: `
+      Name the intern in TASC:
+  
+      a: Saloni 
+      b: Suchitra 
+      c: Zoya
+    d: Sucheta  \n`,
+          answer: "c"
+  },
+  {
+    question: `
+      Moosa plans a chemical gas explosion. Which city is at the centre of the attack?
+  
+      a: Mumbai 
+      b: Delhi 
+      c: Kashmir
+    d: Karachi  \n`,
+          answer: "b"
+  },
+  {
+    question: `
+      Which instrument is Atharv learning to play?
+  
+      a: Drums 
+      b: Guitar 
+      c: Flute
+    d: Piano  \n`,
+          answer: "c"
   }];
 
   for(var i=0;i<questions.length;i++)
